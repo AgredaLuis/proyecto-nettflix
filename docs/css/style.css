@@ -272,12 +272,24 @@ position: relative;
 	justify-content: center;
 }
 
+.contacto, a{
+	color: #757575;
+	padding: 6px;
+	font-size: 12px;
+	cursor: pointer;
+	justify-content: center;
+	margin: auto;
+	display: flex;
+}
 
 .pie p{
+	color: #757575;
 	padding: 6px;
+	font-size: 12px;
+	cursor: pointer
 }
+
 .pie .espacio{
 	width: 40px;
 
-}
 /*PIE*/
