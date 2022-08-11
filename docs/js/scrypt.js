@@ -1,2 +1,2 @@
-alert("Este proyecto no tiene responsive desing");
+alert("Este proyecto no tiene responsive design");
 	
